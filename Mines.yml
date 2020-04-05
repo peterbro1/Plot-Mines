@@ -1,0 +1,649 @@
+e6a61b70-a777-43a3-bb72-e34397a1b6d9:
+  73c7fe8a-f95c-404a-ab97-160a52eb6dae:
+    world: plots
+    min-x: 7670
+    min-y: 7
+    min-z: -1008
+    max-x: 7673
+    max-y: 10
+    max-z: -1005
+    type: diamond
+    chunk_key: -270582939169
+    state: ACTIVE
+  e67fbcda-c301-4b0b-ba62-2a075b238326:
+    world: plots
+    min-x: 7667
+    min-y: 5
+    min-z: -1007
+    max-x: 7672
+    max-y: 10
+    max-z: -1002
+    type: diamond
+    chunk_key: -270582939169
+    state: ACTIVE
+  3d05fc26-5946-4b7e-a352-8570da7395ba:
+    world: plots
+    min-x: 7665
+    min-y: 5
+    min-z: -1004
+    max-x: 7670
+    max-y: 10
+    max-z: -999
+    type: diamond
+    chunk_key: -270582939169
+    state: ACTIVE
+  c44efd62-a064-4459-b508-4d774076c6f6:
+    world: plots
+    min-x: 7668
+    min-y: 5
+    min-z: -998
+    max-x: 7673
+    max-y: 10
+    max-z: -993
+    type: diamond
+    chunk_key: -270582939169
+    state: ACTIVE
+  f8ccf1eb-b6b6-4dd5-9a13-6d0774bea498:
+    world: plots
+    min-x: 2522
+    min-y: 2
+    min-z: 8099
+    max-x: 2530
+    max-y: 10
+    max-z: 8107
+    type: pclay
+    chunk_key: 2173253451934
+    state: ACTIVE
+  f5ff684d-15b7-4806-b6d7-d91f32ef9149:
+    world: plots
+    min-x: 2529
+    min-y: 7
+    min-z: 8109
+    max-x: 2532
+    max-y: 10
+    max-z: 8112
+    type: diamond
+    chunk_key: 2177548419230
+    state: ACTIVE
+  9d924591-f8de-4739-a1f3-b94687130fed:
+    world: plots
+    min-x: 2536
+    min-y: 3
+    min-z: 8105
+    max-x: 2543
+    max-y: 10
+    max-z: 8112
+    type: pclay
+    chunk_key: 2177548419230
+    state: ACTIVE
+  e7e68f1a-2aa2-4b88-9624-6e0fb46746ea:
+    world: plots
+    min-x: 2534
+    min-y: 5
+    min-z: 8111
+    max-x: 2539
+    max-y: 10
+    max-z: 8116
+    type: pclay
+    chunk_key: 2177548419230
+    state: VERIFY
+  abb519f4-d417-4632-9226-22cf2cfbb675:
+    world: plots
+    min-x: -7816
+    min-y: 9
+    min-z: -3566
+    max-x: -7790
+    max-y: 35
+    max-z: -3540
+    type: emerald_diamond
+    chunk_key: -949187772903
+    state: VERIFY
+  4d17458b-acac-4464-af87-723ce2f77443:
+    world: plots
+    min-x: -7816
+    min-y: 9
+    min-z: -3566
+    max-x: -7790
+    max-y: 35
+    max-z: -3540
+    type: emerald_diamond
+    chunk_key: -949187772903
+    state: VERIFY
+  cef35abb-1474-44bc-a79a-9fbc22a2cb3c:
+    world: plots
+    min-x: -266
+    min-y: 9
+    min-z: 398
+    max-x: -265
+    max-y: 10
+    max-z: 399
+    type: diamond
+    chunk_key: 107374182383
+    state: VERIFY
+  b4e81be0-540d-4541-8eed-387b3e79355f:
+    world: plots
+    min-x: -7809
+    min-y: 4
+    min-z: -3560
+    max-x: -7804
+    max-y: 9
+    max-z: -3555
+    type: diamond
+    chunk_key: -953482740200
+    state: VERIFY
+  20d1804d-b068-4043-bed9-09ef0d5e4606:
+    world: plots
+    min-x: -7808
+    min-y: 4
+    min-z: -3564
+    max-x: -7803
+    max-y: 9
+    max-z: -3559
+    type: diamond
+    chunk_key: -953482740200
+    state: VERIFY
+  e5e4e597-ca52-4226-8f35-e8f3436b673c:
+    world: plots
+    min-x: 3442
+    min-y: 0
+    min-z: -8155
+    max-x: 3452
+    max-y: 10
+    max-z: -8145
+    type: pclay
+    chunk_key: -2190433320745
+    state: VERIFY
+840c1398-227c-4e8a-9fbc-7a874bd73649:
+  6822bc80-ae1c-45e8-9422-091665ed778f:
+    world: plots
+    min-x: 2524
+    min-y: 1
+    min-z: 8097
+    max-x: 2532
+    max-y: 9
+    max-z: 8105
+    type: pclay
+    chunk_key: 2173253451934
+    state: ACTIVE
+  73c9e14d-fcf2-4d15-883e-88dc30b4b605:
+    world: plots
+    min-x: 2526
+    min-y: 2
+    min-z: 8098
+    max-x: 2534
+    max-y: 10
+    max-z: 8106
+    type: pclay
+    chunk_key: 2173253451934
+    state: ACTIVE
+  d40f724c-c466-4dac-a7a5-074b28d8e335:
+    world: plots
+    min-x: 2521
+    min-y: 10
+    min-z: 8097
+    max-x: 2546
+    max-y: 35
+    max-z: 8122
+    type: pclay
+    chunk_key: 2177548419231
+    state: ACTIVE
+  9d924591-f8de-4739-a1f3-b94687130fed:
+    world: plots
+    min-x: 2528
+    min-y: 3
+    min-z: 8097
+    max-x: 2535
+    max-y: 10
+    max-z: 8104
+    type: pclay
+    chunk_key: 2173253451934
+    state: VERIFY
+a1993253-2cd8-4619-ac8d-fac935b09399:
+  cf2ae19d-435f-47ca-8eb4-a00824a5f2ef:
+    world: plots
+    min-x: 15313
+    min-y: 5
+    min-z: 16911
+    max-x: 15318
+    max-y: 10
+    max-z: 16916
+    type: gold
+    chunk_key: 4539780432829
+    state: VERIFY
+  a81c799e-afed-403d-a5bc-3b8f2bc920b1:
+    world: plots
+    min-x: 15307
+    min-y: 0
+    min-z: 16915
+    max-x: 15317
+    max-y: 10
+    max-z: 16925
+    type: purpleclay
+    chunk_key: 4539780432829
+    state: VERIFY
+  919ce503-8fe2-4c54-a49b-fb4f0b2d1f30:
+    world: plots
+    min-x: -8149
+    min-y: 0
+    min-z: -2848
+    max-x: -8139
+    max-y: 10
+    max-z: -2838
+    type: pclay
+    chunk_key: -760209211901
+    state: VERIFY
+  b6aa5cf6-3159-4bf1-b11a-286da21db0af:
+    world: plots
+    min-x: 15310
+    min-y: 2
+    min-z: 16908
+    max-x: 15330
+    max-y: 22
+    max-z: 16928
+    type: pclay
+    chunk_key: 4544075400126
+    state: VERIFY
+  ce6614c2-3511-4ae6-b631-5cac9bcb3396:
+    world: plots
+    min-x: 15303
+    min-y: -1
+    min-z: 16901
+    max-x: 15330
+    max-y: 26
+    max-z: 16928
+    type: pclay
+    chunk_key: 4544075400126
+    state: VERIFY
+  e40783ac-fe8d-4dcc-857f-b41429f7572f:
+    world: plots
+    min-x: -1726
+    min-y: 24
+    min-z: 7904
+    max-x: -1716
+    max-y: 34
+    max-z: 7914
+    type: pclay
+    chunk_key: 2126008811412
+    state: VERIFY
+  22d50eca-e0cc-43c8-8482-33b54f3b2de2:
+    world: plots
+    min-x: 15308
+    min-y: 0
+    min-z: 16907
+    max-x: 15318
+    max-y: 10
+    max-z: 16917
+    type: gold
+    chunk_key: 4539780432829
+    state: VERIFY
+  d9386589-b90b-4fa9-a5ed-59ced7bac44a:
+    world: plots
+    min-x: 15309
+    min-y: 0
+    min-z: 16908
+    max-x: 15319
+    max-y: 10
+    max-z: 16918
+    type: gold
+    chunk_key: 4539780432829
+    state: VERIFY
+  30441694-3835-4a93-8907-8aeee9bf5600:
+    world: plots
+    min-x: 15318
+    min-y: 7
+    min-z: 16947
+    max-x: 15321
+    max-y: 10
+    max-z: 16950
+    type: pclay
+    chunk_key: 4548370367421
+    state: VERIFY
+  fab20be7-bd3e-4d36-8c41-006dce79159d:
+    world: plots
+    min-x: 15315
+    min-y: 9
+    min-z: 16952
+    max-x: 15316
+    max-y: 10
+    max-z: 16953
+    type: pclay
+    chunk_key: 4548370367421
+    state: VERIFY
+  c280b174-1131-4e58-889c-8f2772f4b4e2:
+    world: plots
+    min-x: 15314
+    min-y: 25
+    min-z: 16912
+    max-x: 15317
+    max-y: 28
+    max-z: 16915
+    type: pclay
+    chunk_key: 4539780432829
+    state: VERIFY
+  9eb4c968-6945-48f8-afb5-982f4c1904cd:
+    world: plots
+    min-x: 15307
+    min-y: 25
+    min-z: 16906
+    max-x: 15311
+    max-y: 29
+    max-z: 16910
+    type: pclay
+    chunk_key: 4535485465532
+    state: VERIFY
+4d8f6cb9-3e3e-4397-928a-e8a33db8eccd:
+  361a8cfa-28c2-407f-b32c-b19457050e04:
+    world: plots
+    min-x: 3831
+    min-y: -1
+    min-z: 8072
+    max-x: 3838
+    max-y: 6
+    max-z: 8079
+    type: emerald
+    chunk_key: 2164663517423
+    state: VERIFY
+67a97dc2-26a4-47f4-ad20-9ae092f34731:
+  919ce503-8fe2-4c54-a49b-fb4f0b2d1f30:
+    world: plots
+    min-x: -3725
+    min-y: -1
+    min-z: 486
+    max-x: -3715
+    max-y: 9
+    max-z: 496
+    type: pclay
+    chunk_key: 137438953239
+    state: VERIFY
+8a6c8d02-9714-40ad-913e-080d6ec1c735:
+  5cf984c8-c739-4a03-9146-0e3d1ad4ef6a:
+    world: plots
+    min-x: -8152
+    min-y: 0
+    min-z: -4444
+    max-x: -8142
+    max-y: 10
+    max-z: -4434
+    type: pclay
+    chunk_key: -1189705941501
+    state: VERIFY
+01fb7fbb-adef-4820-af1d-f31dddfdc36c:
+  d1f94439-7486-4205-8bc7-a5475c399a3d:
+    world: plots
+    min-x: -1727
+    min-y: 20
+    min-z: 7904
+    max-x: -1717
+    max-y: 30
+    max-z: 7914
+    type: purpleclay
+    chunk_key: 2126008811412
+    state: VERIFY
+  e40783ac-fe8d-4dcc-857f-b41429f7572f:
+    world: plots
+    min-x: -1725
+    min-y: 24
+    min-z: 7905
+    max-x: -1715
+    max-y: 34
+    max-z: 7915
+    type: pclay
+    chunk_key: 2126008811412
+    state: VERIFY
+9a183629-9e8a-4ac3-a303-ae4332304856:
+  5a750bc9-7bfd-446a-8c26-d6aef39e131f:
+    world: plots
+    min-x: -8153
+    min-y: -1
+    min-z: -6111
+    max-x: -8143
+    max-y: 9
+    max-z: -6101
+    type: diamond
+    chunk_key: -1636382540285
+    state: VERIFY
+c292e36e-6564-431d-b2a5-67618d6edbd0:
+  31ff0952-80f8-4f27-88c7-44f3de63fce3:
+    world: plots
+    min-x: -8150
+    min-y: 0
+    min-z: -6347
+    max-x: -8140
+    max-y: 10
+    max-z: -6337
+    type: pclay
+    chunk_key: -1700807049725
+    state: VERIFY
+0b209731-2047-49c3-b6a1-ee3e4d2ad2a3:
+  b4576f39-966c-4f55-868f-f852bd4022e7:
+    world: plots
+    min-x: -8154
+    min-y: 0
+    min-z: 1948
+    max-x: -8144
+    max-y: 10
+    max-z: 1958
+    type: purpleclay
+    chunk_key: 528280976899
+    state: VERIFY
+4a8e4295-728e-4797-b747-e1e2abcd4446:
+  6a3b5965-3609-4bdc-9a84-cc341e7cf7c2:
+    world: plots
+    min-x: -8174
+    min-y: 0
+    min-z: -6406
+    max-x: -8164
+    max-y: 10
+    max-z: -6396
+    type: pclay
+    chunk_key: -1713691951615
+    state: VERIFY
+25f6d93c-89aa-4dcf-858d-64b61fde6418:
+  cacc60a7-efdd-48b5-860a-36c561aa156b:
+    world: plots
+    min-x: 5817
+    min-y: -1
+    min-z: -7902
+    max-x: 5827
+    max-y: 9
+    max-z: -7892
+    type: diamond
+    chunk_key: -2121713843860
+    state: VERIFY
+  bba1f22a-016e-4a84-a08f-d0db92d94f35:
+    world: plots
+    min-x: 5817
+    min-y: -1
+    min-z: -7902
+    max-x: 5827
+    max-y: 9
+    max-z: -7892
+    type: gold
+    chunk_key: -2121713843860
+    state: VERIFY
+b2204047-cbf8-4038-9d46-805b40c4cab7:
+  b3fe3aba-0aae-4120-b830-7e4117adf2e5:
+    world: plots
+    min-x: -7294
+    min-y: 9
+    min-z: 5451
+    max-x: -7293
+    max-y: 10
+    max-z: 5452
+    type: purpleclay
+    chunk_key: 1464583847480
+    state: VERIFY
+  3fe7e623-65ed-4936-b529-a56f0e9c13c2:
+    world: plots
+    min-x: -7301
+    min-y: 0
+    min-z: 5447
+    max-x: -7291
+    max-y: 10
+    max-z: 5457
+    type: purpleclay
+    chunk_key: 1468878814776
+    state: VERIFY
+  9746bbf6-6664-4713-b098-051dda45558d:
+    world: plots
+    min-x: -7304
+    min-y: 0
+    min-z: 5449
+    max-x: -7294
+    max-y: 10
+    max-z: 5459
+    type: pclay
+    chunk_key: 1468878814776
+    state: VERIFY
+3e8f85f8-397b-4e5c-919a-6608dafbd502:
+  43eb9606-b6c9-45e7-8978-25a5881faeeb:
+    world: plots
+    min-x: 7997
+    min-y: 0
+    min-z: -833
+    max-x: 8007
+    max-y: 10
+    max-z: -823
+    type: purpleclay
+    chunk_key: -223338298892
+    state: VERIFY
+6fac078a-6647-4281-b4e9-57c3275e8d64:
+  87b32a55-ed66-4c90-b0de-8990a8049adb:
+    world: plots
+    min-x: -6784
+    min-y: 9
+    min-z: -8143
+    max-x: -6783
+    max-y: 10
+    max-z: -8142
+    type: '1'
+    chunk_key: -2181843386792
+    state: VERIFY
+  3e62f255-f75b-49a6-8872-2e4312a470c3:
+    world: plots
+    min-x: -6796
+    min-y: 0
+    min-z: -8158
+    max-x: -6786
+    max-y: 10
+    max-z: -8148
+    type: purpleclay
+    chunk_key: -2186138354089
+    state: VERIFY
+  f6f311a4-4c1b-4f4a-b680-2b8107f253ae:
+    world: plots
+    min-x: -6791
+    min-y: 19
+    min-z: -8153
+    max-x: -6781
+    max-y: 29
+    max-z: -8143
+    type: pclay
+    chunk_key: -2181843386792
+    state: VERIFY
+647084da-21b9-4933-a42e-e260fd309d5b:
+  27770256-0440-4e31-80f1-1793d7d96344:
+    world: plots
+    min-x: -6509
+    min-y: 0
+    min-z: 3032
+    max-x: -6499
+    max-y: 10
+    max-z: 3042
+    type: pclay
+    chunk_key: 820338753129
+    state: VERIFY
+6e7b7454-f20f-4d3c-a4cb-475b0fb2a948:
+  a4131f7c-9efc-4645-b1c3-9250be23d903:
+    world: plots
+    min-x: -5331
+    min-y: 0
+    min-z: -2109
+    max-x: -5321
+    max-y: 10
+    max-z: -2099
+    type: pclay
+    chunk_key: -562640716109
+    state: VERIFY
+  3cb89c2e-55ac-40ce-9604-8f9788f88f6a:
+    world: plots
+    min-x: -5328
+    min-y: 0
+    min-z: -2098
+    max-x: -5318
+    max-y: 10
+    max-z: -2088
+    type: pclay
+    chunk_key: -558345748813
+    state: VERIFY
+  d13c574d-eef1-4142-b518-654bdc41161e:
+    world: plots
+    min-x: -5328
+    min-y: 0
+    min-z: -2088
+    max-x: -5318
+    max-y: 10
+    max-z: -2078
+    type: emerald
+    chunk_key: -554050781517
+    state: VERIFY
+85f18229-56dc-4c3e-b1d9-7b951b1c592f:
+  22c5d2d7-09b9-4514-a365-c629b989e6b9:
+    world: plots
+    min-x: -8150
+    min-y: 0
+    min-z: -4595
+    max-x: -8140
+    max-y: 10
+    max-z: -4585
+    type: pclay
+    chunk_key: -1228360647165
+    state: VERIFY
+f3f1f404-fc8b-43d8-843d-2ac20980cb66:
+  37fac82a-5a1b-4e3f-9fa3-31850273ffd8:
+    world: plots
+    min-x: 3343
+    min-y: 0
+    min-z: 8037
+    max-x: 3353
+    max-y: 10
+    max-z: 8047
+    type: pclay
+    chunk_key: 2156073582801
+    state: VERIFY
+c7de8cdd-2dee-4b93-85d8-0656bda41f51:
+  e870f760-cec0-4fb7-a691-8b713f540b17:
+    world: plots
+    min-x: 15316
+    min-y: 0
+    min-z: 16896
+    max-x: 15326
+    max-y: 10
+    max-z: 16906
+    type: pclay
+    chunk_key: 4535485465533
+    state: VERIFY
+b3e40f2f-d980-4281-8ec4-9a26e78ba95d:
+  aa209948-5b1c-4164-8395-e2b9bc59e5c6:
+    world: plots
+    min-x: -7826
+    min-y: 0
+    min-z: -3551
+    max-x: -7816
+    max-y: 10
+    max-z: -3541
+    type: gold
+    chunk_key: -949187772905
+    state: VERIFY
+8e003a1f-8d59-4265-b449-63b00759e84c:
+  aed44f0d-7ace-414c-9da6-8f07826c092d:
+    world: plots
+    min-x: -8081
+    min-y: 0
+    min-z: -5399
+    max-x: -8071
+    max-y: 10
+    max-z: -5389
+    type: pclay
+    chunk_key: -1443109011961
+    state: VERIFY

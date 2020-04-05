@@ -1,0 +1,8 @@
+name: PlotMines
+main: me.gmx.plotmines.PlotMines
+version: ${project.version}
+depend: [WorldGuard,WorldEdit,PlotSquared]
+author: GMX
+commands:
+  plotmine:
+    aliases: [plotmines,pmine,pmines]
